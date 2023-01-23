@@ -1,0 +1,167 @@
+[
+  {
+    "id": 0,
+    "imageUrl": "https://www.lampatron.ru/media/design-lamps/design-lamps-bror-b919.jpg",
+    "title": "STAVRA",
+    "type": "Chandalier",
+    "sizes": [
+      3,
+      6
+    ],
+    "price": 66600,
+    "category": 0,
+    "rating": 4
+  },
+  {
+    "id": 1,
+    "imageUrl": "https://www.lampatron.ru/media/design-lamps/design-lamps-liustra-b743.jpg",
+    "title": "NATURA B",
+    "type": "Chandalier",
+    "sizes": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "price": 22500,
+    "category": 0,
+    "rating": 4
+  },
+  {
+    "id": 2,
+    "imageUrl": "https://www.lampatron.ru/media/design-lamps/design-lamps-nordland-b960.jpg",
+    "title": "NORDLAND",
+    "type": "Chandalier",
+    "sizes": [
+      3,
+      5
+    ],
+    "price": 41200,
+    "category": 0,
+    "rating": 4
+  },
+  {
+    "id": 3,
+    "imageUrl": "https://www.lampatron.ru/media/design-lamps/design-lamps-coda-b591.jpg",
+    "title": "CODA",
+    "type": "Chandalier",
+    "sizes": [
+      3,
+      6,
+      8
+    ],
+    "price": 38300,
+    "category": 0,
+    "rating": 4
+  },
+  {
+    "id": 4,
+    "imageUrl": "https://www.lampatron.ru/media/design-lamps/design-lamps-frim-b601.jpg",
+    "title": "FRIM",
+    "type": "Chandalier",
+    "sizes": [
+      3,
+      6,
+      8
+    ],
+    "price": 39000,
+    "category": 0,
+    "rating": 4
+  },
+  {
+    "id": 5,
+    "imageUrl": "https://www.lampatron.ru/media/design-lamps/design-lamps-yryy-b899.jpg",
+    "title": "ORBIT WALL",
+    "type": "Bra",
+    "sizes": [
+      22
+    ],
+    "price": 23500,
+    "category": 0,
+    "rating": 4
+  },
+  {
+    "id": 6,
+    "imageUrl": "https://www.lampatron.ru/media/design-lamps/design-lamps-vallbo-b587.jpg",
+    "title": "VALLBO",
+    "type": "Bra",
+    "sizes": [
+      3,
+      6,
+      8
+    ],
+    "price": 36400,
+    "category": 0,
+    "rating": 4
+  },
+  {
+    "id": 7,
+    "imageUrl": "https://www.lampatron.ru/media/design-lamps/design-lamps-vallbo-b587.jpg",
+    "title": "VALLBO",
+    "type": "Bra",
+    "sizes": [
+      3,
+      6,
+      8
+    ],
+    "price": 36400,
+    "category": 0,
+    "rating": 4
+  },
+  {
+    "id": 8,
+    "imageUrl": "https://www.lampatron.ru/media/design-lamps/design-lamps-vallbo-b587.jpg",
+    "title": "VALLBO",
+    "type": "Bra",
+    "sizes": [
+      3,
+      6,
+      8
+    ],
+    "price": 36400,
+    "category": 0,
+    "rating": 4
+  },
+  {
+    "id": 9,
+    "imageUrl": "https://www.lampatron.ru/media/design-lamps/design-lamps-match-b744.jpg",
+    "title": "MATCH",
+    "type": "floorLamp",
+    "sizes": [
+      3,
+      6,
+      8
+    ],
+    "price": 32700,
+    "category": 0,
+    "rating": 4
+  },
+  {
+    "id": 10,
+    "imageUrl": "https://www.lampatron.ru/media/design-lamps/design-lamps-pernille-b602.jpg",
+    "title": "PERNILLE",
+    "type": "floorLamp",
+    "sizes": [
+      3,
+      6,
+      8
+    ],
+    "price": 76200,
+    "category": 0,
+    "rating": 4
+  },
+  {
+    "id": 11,
+    "imageUrl": "https://www.lampatron.ru/media/design-lamps/design-lamps-kemi-fl-b215.jpg",
+    "title": "KEMI FL",
+    "type": "floorLamp",
+    "sizes": [
+      3,
+      6,
+      8
+    ],
+    "price": 53700,
+    "category": 0,
+    "rating": 4
+  }
+]
